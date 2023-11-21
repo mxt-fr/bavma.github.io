@@ -4,9 +4,13 @@ title: How to achieve glory and success as a filmmaker
 subtitle: BAVMA Research EPFL team
 ---
 
-![movies ribon](assets/img/movies.jpeg)
+<div style="position: relative; text-align: center;">
+  <img src="assets/img/movies.jpeg" alt="Movies Ribbon" style="width: 100%; height: auto;">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 24px;">
+    <p style="background-color: rgba(0, 0, 0, 0.5); padding: 10px;">How to achieve glory and success as a filmmaker</p>
+  </div>
+</div>
 
-# How to achieve glory and success as a filmmaker
 
 ## Datastory
 
