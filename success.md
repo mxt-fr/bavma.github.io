@@ -4,6 +4,8 @@ title: How to achieve glory and success as a filmmaker
 subtitle: BAVMA Research EPFL team
 ---
 
+![movies ribon](assets/img/movies.jpeg)
+
 # How to achieve glory and success as a filmmaker
 
 ## Datastory
