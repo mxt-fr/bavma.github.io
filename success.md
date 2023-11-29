@@ -12,7 +12,40 @@ subtitle: BAVMA Research EPFL team
 
 A movie producer comes to see us and says he wants to make a successful movie in a given genre and for a given geographical area, between USA, America, Africa, Europe, Asia or Oceania. He wants to find the best drivers that will make his movie a success, both financially by making substantial box office profits, and critically by getting good ratings and reviews. We decided to create an easy-to-use interface where the producer can select his genre and target market parameters and get feedback on the optimization of multiple parameters such as runtime, director profile, actor profiles, main language, and potentially plot and character persona elements in order to achieve his goal. 
 
-You can access the interface by clicking on this link: *Coming soon*
+## ALINE : AJOUTER LES ANALYSES GENERALES 
+
+### Idées de questions:
+- What is the relation between revenues and being awarded?
+- Does the cast influence the gender, the revenue amount and the rating?
+- Which genre is more nominated/rewarded?
+Mettre des mauvais graphes en plotly et des vilaines analyses
+
+
+### Causal analysis of observational data : sensitivity analysis : nominated, oscar, rating --> profitability ?? 
+
+**BENOIT**
+
+
+
+
+## Explore each main genres 
+
+For each genre we explore different questions:
+
+- Which genre is more represented according to a location? Which genre performs better according to a location?
+- How do rating and revenue vary as a function of the genre?
+- What is the relationship between ratings and revenues?
+- What is the optimal runtime for each genre?
+- Which relation between the screen time and the opportunity to win an award ?
+
+
+
+[![Drama](assets/img/drama.jpeg)](/drama)
+[![Family](assets/img/family.jpeg)](/family)
+[![Action & Adventure](assets/img/action.png)](/action_adventure)
+[![Fiction](assets/img/fiction.jpeg)](/fiction)
+[![Horror](assets/img/horror.jpeg)](/horror)
+
 
 
 ## Abstract
