@@ -1,15 +1,12 @@
 ---
-layout: minimal
+layout: page
 title: Action and adventure movies
-subtitle: BAVMA Research EPFL team
+subtitle: What are the main drivers to a successfull action and adventure movie ? 
+cover-img: /assets/img/movies.jpeg
+thumbnail-img: /assets/img/movies.jpeg
+share-img: /assets/img/movies.jpeg
+use-site-title: false
 ---
-
-  
-<div style="text-align:center;">
-    <a href="/action_adventure"><img src="/assets/img/action.jpeg" alt="action" style="width:150px; height:150px;"></a>
-</div>
-  
-
 # Action and adventure movies
 Brief overview of the Action and its significance in the film industry.
 
