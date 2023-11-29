@@ -4,7 +4,7 @@ title: How to achieve glory and success as a filmmaker
 subtitle: BAVMA Research EPFL team
 ---
 
-![movies ribon](assets/img/movies.jpeg)
+![movies ribbon](assets/img/movies.jpeg){ width=100% }
 
 # How to achieve glory and success as a filmmaker
 
@@ -12,16 +12,18 @@ subtitle: BAVMA Research EPFL team
 
 A movie producer comes to see us and says he wants to make a successful movie in a given genre and for a given geographical area, between USA, America, Africa, Europe, Asia or Oceania. He wants to find the best drivers that will make his movie a success, both financially by making substantial box office profits, and critically by getting good ratings and reviews. We decided to create an easy-to-use interface where the producer can select his genre and target market parameters and get feedback on the optimization of multiple parameters such as runtime, director profile, actor profiles, main language, and potentially plot and character persona elements in order to achieve his goal. 
 
-## ALINE : AJOUTER LES ANALYSES GENERALES 
+## General analysis 
 
-### Idées de questions:
+**ALINE**
+
 - What is the relation between revenues and being awarded?
 - Does the cast influence the gender, the revenue amount and the rating?
 - Which genre is more nominated/rewarded?
-Mettre des mauvais graphes en plotly et des vilaines analyses
+- Mettre des mauvais graphes en plotly et des vilaines analyses
+- Ajouter d'autres analyses: prendre inspiration sur Milestone 2
 
 
-### Causal analysis of observational data : sensitivity analysis : nominated, oscar, rating --> profitability ?? 
+## Causal analysis of observational data : sensitivity analysis : nominated, oscar, rating --> profitability ?? 
 
 **BENOIT**
 
@@ -66,6 +68,7 @@ For each genre we explore different questions:
     <p><strong>Horror</strong></p>
   </div>
 </div>
+
 
 ## Abstract
 
