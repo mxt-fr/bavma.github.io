@@ -24,7 +24,6 @@ Brief overview of the Action and its significance in the film industry.
 
 ## NLP Analysis
 
-
 ## Regressions
 
 ## Basic graphs
