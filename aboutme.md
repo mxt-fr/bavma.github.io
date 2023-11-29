@@ -15,6 +15,6 @@ The team members are :
 - Mathieu
 - Antoine
 
-### My story
+### Our story
 
 We like creating interfaces, talking about finance and doing nerdy jokes :)
