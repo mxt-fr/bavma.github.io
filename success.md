@@ -1,7 +1,11 @@
 ---
-layout: minimal
+layout: page
 title: How to achieve glory and success as a filmmaker 
 subtitle: BAVMA Research EPFL team
+cover-img: /assets/img/movie.jpeg
+thumbnail-img: /assets/img/movie.jpeg
+share-img: /assets/img/movie.jpeg
+use-site-title: false
 ---
 
 <div style="width: 100%; overflow: hidden;">
