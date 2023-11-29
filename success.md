@@ -4,7 +4,10 @@ title: How to achieve glory and success as a filmmaker
 subtitle: BAVMA Research EPFL team
 ---
 
-![movies ribbon](assets/img/movies.jpeg){ width=100% }
+<div style="width: 100%; overflow: hidden;">
+  <img src="/assets/img/movies.jpeg" alt="Movies Ribbon" style="width: 100%; height: auto; display: block;">
+</div>
+
 
 # How to achieve glory and success as a filmmaker
 
