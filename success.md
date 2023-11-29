@@ -1,10 +1,10 @@
 ---
 layout: page
 title: How to achieve glory and success as a filmmaker 
-subtitle: BAVMA Research EPFL team
-cover-img: /assets/img/movie.jpeg
-thumbnail-img: /assets/img/movie.jpeg
-share-img: /assets/img/movie.jpeg
+subtitle: A guide to make the best movies according to a given genre and continent target
+cover-img: /assets/img/movies.jpeg
+thumbnail-img: /assets/img/movies.jpeg
+share-img: /assets/img/movies.jpeg
 use-site-title: false
 ---
 
