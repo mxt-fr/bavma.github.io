@@ -1,13 +1,13 @@
 ---
-layout: minimal
+layout: page
 title: Family movies
-subtitle: BAVMA Research EPFL team
+subtitle: What are the main drivers to a successfull family movie ? 
+cover-img: /assets/img/movies.jpeg
+thumbnail-img: /assets/img/movies.jpeg
+share-img: /assets/img/movies.jpeg
+use-site-title: false
 ---
 
-  
-<div style="text-align:center;">
-    <a href="/family"><img src="/assets/img/family.jpeg" alt="family" style="width:150px; height:150px;"></a>
-</div>
   
 
 # Family movies

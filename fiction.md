@@ -1,16 +1,16 @@
 ---
-layout: minimal
-title: Fiction movies
-subtitle: BAVMA Research EPFL team
+layout: page
+title: Science-fiction movies
+subtitle: What are the main drivers to a successfull science-fiction movie ? 
+cover-img: /assets/img/movies.jpeg
+thumbnail-img: /assets/img/movies.jpeg
+share-img: /assets/img/movies.jpeg
+use-site-title: false
 ---
 
   
-<div style="text-align:center;">
-    <a href="/fiction"><img src="/assets/img/fiction.jpeg" alt="fiction" style="width:150px; height:150px;"></a>
-</div>
-  
 
-# Fiction movies
+# Science fiction movies
 Brief overview of the fiction and its significance in the film industry.
 
 ## Overview
