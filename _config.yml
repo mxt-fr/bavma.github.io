@@ -20,9 +20,10 @@ author: BAVMA Research
 ###############################################
 
 navbar-links:
+  Home: "success"
   About Us: "aboutme"
   Sources: "sources"
-  Main page: "success"
+  
 
 
   
