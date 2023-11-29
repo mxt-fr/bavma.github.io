@@ -42,7 +42,6 @@ For each genre we explore different questions:
 - Which relation between the screen time and the opportunity to win an award ?
 
 
-
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; gap: 20px;">
 
   <div style="text-align: center;">
@@ -70,5 +69,13 @@ For each genre we explore different questions:
     <a href="/fiction">
       <img src="/assets/img/fiction.jpeg" alt="Fiction" style="width: 150px; height: 150px; border-radius: 10px;">
     </a>
-    <p style="margin: 10px 0
-
+    <p style="margin: 10px 0; font-weight: bold;">Fiction</p>
+  </div>
+  
+  <div style="text-align: center;">
+    <a href="/horror">
+      <img src="/assets/img/horror.jpeg" alt="Horror" style="width: 150px; height: 150px; border-radius: 10px;">
+    </a>
+    <p style="margin: 10px 0; font-weight: bold;">Horror</p>
+  </div>
+</div>
