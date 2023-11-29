@@ -51,11 +51,11 @@ For each genre we explore different questions:
 
 
 <div style="display:flex; justify-content: space-between;">
-  <a href="/drama"><img src="assets/img/drama.jpeg" alt="Drama" style="width:150px; height:150px;"></a>
-  <a href="/family"><img src="assets/img/family.jpeg" alt="Family" style="width:150px; height:150px;"></a>
-  <a href="/action_adventure"><img src="assets/img/action.png" alt="Action & Adventure" style="width:150px; height:150px;"></a>
-  <a href="/fiction"><img src="assets/img/fiction.jpeg" alt="Fiction" style="width:150px; height:150px;"></a>
-  <a href="/horror"><img src="assets/img/horror.jpeg" alt="Horror" style="width:150px; height:150px;"></a>
+  <a href="/drama"><img src="/assets/img/drama.jpeg" alt="Drama" style="width:150px; height:150px;"></a>
+  <a href="/family"><img src="/assets/img/family.jpeg" alt="Family" style="width:150px; height:150px;"></a>
+  <a href="/action_adventure"><img src="/assets/img/action.png" alt="Action & Adventure" style="width:150px; height:150px;"></a>
+  <a href="/fiction"><img src="/assets/img/fiction.jpeg" alt="Fiction" style="width:150px; height:150px;"></a>
+  <a href="/horror"><img src="/assets/img/horror.jpeg" alt="Horror" style="width:150px; height:150px;"></a>
 </div>
 
 ## Abstract

@@ -13,6 +13,8 @@ subtitle: BAVMA Research EPFL team
 Brief overview of the Drama and its significance in the film industry.
 
 
+## Research questions
+
 - Which genre is more represented according to a location? Which genre performs better according to a location?
 - How do rating and revenue vary as a function of the genre?
 - What is the relationship between ratings and revenues?
