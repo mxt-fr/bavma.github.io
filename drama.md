@@ -1,13 +1,12 @@
 ---
-layout: minimal
-title: Drama
-subtitle: BAVMA Research EPFL team
+layout: page
+title: Drama movies
+subtitle: What are the main drivers to a successfull drama movie ? 
+cover-img: /assets/img/movies.jpeg
+thumbnail-img: /assets/img/movies.jpeg
+share-img: /assets/img/movies.jpeg
+use-site-title: false
 ---
-
-  
-<div style="text-align:center;">
-    <a href="/drama"><img src="/assets/img/drama.jpeg" alt="Drama" style="width:150px; height:150px;"></a>
-</div>
   
 
 # Drama movies

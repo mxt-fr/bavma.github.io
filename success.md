@@ -27,7 +27,8 @@ A movie producer comes to see us and says he wants to make a successful movie in
 - Ajouter d'autres analyses: prendre inspiration sur Milestone 2
 
 
-## Causal analysis of observational data : sensitivity analysis : nominated, oscar, rating --> profitability ?? 
+## Causal analysis of observational data 
+Sensitivity analysis : nominated, oscar, rating --> profitability ?? 
 
 **BENOIT**
 
@@ -41,6 +42,7 @@ For each genre we explore different questions:
 - What is the optimal runtime for each genre?
 - Which relation between the screen time and the opportunity to win an award ?
 
+**We now explore 5 main genres**
 
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; gap: 20px;">
 
