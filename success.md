@@ -47,6 +47,16 @@ For each genre we explore different questions:
 [![Horror](assets/img/horror.jpeg)](/horror)
 
 
+[Click here for Drama](/drama) | [Click here for Family](/family) | [Click here for Action & Adventure](/action_adventure) | [Click here for Fiction](/fiction) | [Click here for Horror](/horror)
+
+
+<div style="display:flex; justify-content: space-between;">
+  <a href="/drama"><img src="assets/img/drama.jpeg" alt="Drama" style="width:150px; height:150px;"></a>
+  <a href="/family"><img src="assets/img/family.jpeg" alt="Family" style="width:150px; height:150px;"></a>
+  <a href="/action_adventure"><img src="assets/img/action.png" alt="Action & Adventure" style="width:150px; height:150px;"></a>
+  <a href="/fiction"><img src="assets/img/fiction.jpeg" alt="Fiction" style="width:150px; height:150px;"></a>
+  <a href="/horror"><img src="assets/img/horror.jpeg" alt="Horror" style="width:150px; height:150px;"></a>
+</div>
 
 ## Abstract
 
@@ -54,16 +64,10 @@ When you arrive on the interface, you can choose the genre of the film you want 
 To determine these parameters, we search for links among similar successful films. We then need to define whether a film is a success or not. In order to do that, we give a score based on awards (Oscars, nominations...), ratings and profits. 
 We will then answer a series of scientific questions that will help us identify the components needed to make a good film.
 
-## Research questions
 
-- Which genre is more represented according to a location? Which genre performs better according to a location?
-- How do rating and revenue vary as a function of the genre?
-- What is the relation between revenues and being awarded?
-- What is the relationship between ratings and revenues?
-- Does the cast influence the gender, the revenue amount and the rating?
-- What is the optimal runtime for each genre?
-- Which relation between the screen time and the opportunity to win an award ?
-- Which genre is more nominated/rewarded?
+
+
+
 
 ## Additional datasets
 
