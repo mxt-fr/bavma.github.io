@@ -22,7 +22,7 @@ Brief overview of the horror and its significance in the film industry.
 - XXX
 
 ## NLP Analysis
-
+![horror Wordcloud](/assets/img/wordclouds/Horror_wordcloud.png)
 ## Regressions
 
 ## Basic graphs

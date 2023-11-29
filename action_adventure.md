@@ -24,6 +24,8 @@ Brief overview of the Action and its significance in the film industry.
 
 ## NLP Analysis
 
+![Action Wordcloud](/assets/img/wordclouds/Action_wordcloud.png)
+
 ## Regressions
 
 ## Basic graphs

@@ -26,6 +26,8 @@ Brief overview of the family and its significance in the film industry.
 - XXX
 
 ## NLP Analysis
+![Family Wordcloud](/assets/img/wordclouds/Family_Film_wordcloud.png)
+
 
 
 ## Regressions
