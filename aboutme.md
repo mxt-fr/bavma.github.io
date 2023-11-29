@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About us
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to go drink some beers with us
 ---
 
 Our team is called BAVMA Research. Why this name? Simply an acronyme of our names.
