@@ -26,6 +26,8 @@ Brief overview of the fiction and its significance in the film industry.
 ## NLP Analysis
 ![SF Wordcloud](/assets/img/wordclouds/Science_Fiction_wordcloud.png)
 
+
+
 ## Regressions
 
 ## Basic graphs
