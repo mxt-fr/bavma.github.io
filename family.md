@@ -10,7 +10,6 @@ use-site-title: false
 
   
 
-# Family movies
 Brief overview of the family and its significance in the film industry.
 
 ## Overview

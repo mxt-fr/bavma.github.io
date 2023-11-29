@@ -8,10 +8,6 @@ share-img: /assets/img/movies.jpeg
 use-site-title: false
 ---
 
-
-
-# How to achieve glory and success as a filmmaker
-
 ## Datastory
 
 A movie producer comes to see us and says he wants to make a successful movie in a given genre and for a given geographical area, between USA, America, Africa, Europe, Asia or Oceania. He wants to find the best drivers that will make his movie a success, both financially by making substantial box office profits, and critically by getting good ratings and reviews. We decided to create an easy-to-use interface where the producer can select his genre and target market parameters and get feedback on the optimization of multiple parameters such as runtime, director profile, actor profiles, main language, and potentially plot and character persona elements in order to achieve his goal. 

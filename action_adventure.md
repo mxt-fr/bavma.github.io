@@ -7,7 +7,6 @@ thumbnail-img: /assets/img/movies.jpeg
 share-img: /assets/img/movies.jpeg
 use-site-title: false
 ---
-# Action and adventure movies
 Brief overview of the Action and its significance in the film industry.
 
 ## Overview

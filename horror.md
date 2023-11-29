@@ -8,7 +8,6 @@ share-img: /assets/img/movies.jpeg
 use-site-title: false
 ---
 
-# Horror movies
 Brief overview of the horror and its significance in the film industry.
 
 ## Overview

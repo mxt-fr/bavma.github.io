@@ -10,7 +10,6 @@ use-site-title: false
 
   
 
-# Science fiction movies
 Brief overview of the fiction and its significance in the film industry.
 
 ## Overview
