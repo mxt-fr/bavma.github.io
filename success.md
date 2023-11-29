@@ -40,22 +40,31 @@ For each genre we explore different questions:
 
 
 
-[![Drama](assets/img/drama.jpeg)](/drama)
-[![Family](assets/img/family.jpeg)](/family)
-[![Action & Adventure](assets/img/action.png)](/action_adventure)
-[![Fiction](assets/img/fiction.jpeg)](/fiction)
-[![Horror](assets/img/horror.jpeg)](/horror)
-
-
-[Click here for Drama](/drama) | [Click here for Family](/family) | [Click here for Action & Adventure](/action_adventure) | [Click here for Fiction](/fiction) | [Click here for Horror](/horror)
-
-
 <div style="display:flex; justify-content: space-between;">
-  <a href="/drama"><img src="/assets/img/drama.jpeg" alt="Drama" style="width:150px; height:150px;"></a>
-  <a href="/family"><img src="/assets/img/family.jpeg" alt="Family" style="width:150px; height:150px;"></a>
-  <a href="/action_adventure"><img src="/assets/img/action.png" alt="Action & Adventure" style="width:150px; height:150px;"></a>
-  <a href="/fiction"><img src="/assets/img/fiction.jpeg" alt="Fiction" style="width:150px; height:150px;"></a>
-  <a href="/horror"><img src="/assets/img/horror.jpeg" alt="Horror" style="width:150px; height:150px;"></a>
+  <div style="text-align:center;">
+    <a href="/drama"><img src="/assets/img/drama.jpeg" alt="Drama" style="width:150px; height:150px;"></a>
+    <p><strong>Drama</strong></p>
+  </div>
+  
+  <div style="text-align:center;">
+    <a href="/family"><img src="/assets/img/family.jpeg" alt="Family" style="width:150px; height:150px;"></a>
+    <p><strong>Family</strong></p>
+  </div>
+  
+  <div style="text-align:center;">
+    <a href="/action_adventure"><img src="/assets/img/action.png" alt="Action & Adventure" style="width:150px; height:150px;"></a>
+    <p><strong>Action & Adventure</strong></p>
+  </div>
+  
+  <div style="text-align:center;">
+    <a href="/fiction"><img src="/assets/img/fiction.jpeg" alt="Fiction" style="width:150px; height:150px;"></a>
+    <p><strong>Fiction</strong></p>
+  </div>
+  
+  <div style="text-align:center;">
+    <a href="/horror"><img src="/assets/img/horror.jpeg" alt="Horror" style="width:150px; height:150px;"></a>
+    <p><strong>Horror</strong></p>
+  </div>
 </div>
 
 ## Abstract
