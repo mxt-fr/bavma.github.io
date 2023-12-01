@@ -26,7 +26,7 @@ Brief overview of the Drama and its significance in the film industry.
 - XXX
 
 ## NLP Analysis
-![Drama Wordcloud](/assets/img/wordclouds/Drama_wordcloud.png)
+![Drama Wordcloud](/assets/img/wordclouds/empath/Drama_wordcloud.png)
 
 
 ## Regressions

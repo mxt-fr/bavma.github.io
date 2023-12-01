@@ -24,7 +24,7 @@ Brief overview of the fiction and its significance in the film industry.
 - XXX
 
 ## NLP Analysis
-![SF Wordcloud](/assets/img/wordclouds/Science_Fiction_wordcloud.png)
+![SF Wordcloud](/assets/img/wordclouds/empath/Fiction_wordcloud.png)
 
 
 

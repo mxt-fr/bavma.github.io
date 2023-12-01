@@ -22,7 +22,7 @@ Brief overview of the horror and its significance in the film industry.
 - XXX
 
 ## NLP Analysis
-![horror Wordcloud](/assets/img/wordclouds/Horror_wordcloud.png)
+![horror Wordcloud](/assets/img/wordclouds/empath/Horror_wordcloud.png)
 
 Horror films focus on generating an intense atmosphere of terror and suspense, frequently use words like 'night,' 'death,' and 'house' to create a chilling environment. The frequent use of the words 'body' and 'chamber' imply a concentration on visceral and frightening surroundings. The use of words like 'father' and 'day' allude to underlying psychological and familial elements that add to the complication of horror storytelling. In essence, these terms are frequently used in horror movie plots to inspire fear, explore the macabre, and dig into the darker parts of human experiences.
 
