@@ -16,6 +16,10 @@ A movie producer comes to see us and says he wants to make a successful movie in
 
 **ALINE**
 
+### Awards vs Revenue
+Ajouter analysis
+
+
 - What is the relation between revenues and being awarded?
 - Does the cast influence the gender, the revenue amount and the rating?
 - Which genre is more nominated/rewarded?
