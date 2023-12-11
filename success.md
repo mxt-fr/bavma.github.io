@@ -16,6 +16,8 @@ A movie producer comes to see us and says he wants to make a successful movie in
 
 **ALINE**
 
+<iframe src = "assets/density_functions_of_movie_profit.html" width = "750px" height = "730px" frameborder = "0" position = "relative"></iframe>
+
 ### Awards vs Revenue
 Ajouter analysis
 
