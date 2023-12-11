@@ -37,6 +37,8 @@ Ajouter analysis
 
 **BENOIT**
 
+{% include index.html %}
+
 
 
 ## Exploring main genres 
