@@ -16,7 +16,7 @@ A movie producer comes to see us and says he wants to make a successful movie in
 
 **ALINE**
 
-<iframe src=https://github.com/mxt-fr/bavma.github.io/blob/master/assets/plots/Distribution_inflated_movies.html width="900" height="800" frameborder="0"></iframe>
+{% include Distribution_inflated_movies.html %}
 
 
 ### Awards vs Revenue
