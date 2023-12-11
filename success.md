@@ -16,7 +16,12 @@ A movie producer comes to see us and says he wants to make a successful movie in
 
 **ALINE**
 
-{% include Distribution_inflated_movies.html %}
+
+
+<div style="width: 100%; display: flex; justify-content: center;">
+  {% include Distribution_inflated_movies.html %}
+</div>
+
 
 
 ### Awards vs Revenue
