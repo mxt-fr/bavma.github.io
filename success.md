@@ -16,7 +16,7 @@ A movie producer comes to see us and says he wants to make a successful movie in
 
 **ALIIIIIIIIIIIIINE**
 
-<iframe src="assets/density_functions_of_movie_profit.html" width="900" height="800" frameborder="0"></iframe>
+<iframe src="assets/plots/density_functions_of_movie_profit.html" width="900" height="800" frameborder="0"></iframe>
 
 
 ### Awards vs Revenue
