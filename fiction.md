@@ -23,9 +23,10 @@ Brief overview of the fiction and its significance in the film industry.
 - Which relation between the screen time and the opportunity to win an award ?
 - XXX
 
-## NLP Analysis
+## Common words and themes in movie plots
 ![SF Wordcloud](/assets/img/wordclouds/empath/Fiction_wordcloud.png)
 
+Futuristic environments and superior technologies drive inventive storytelling in Science Fiction films. Epic stories are inspired by themes of battle, warfare, and superior technology. Families and children are frequently mentored by crucial leaders as they traverse unusual circumstances. The genre's speculative aspect is enhanced by space travel, technological vehicles, and otherworldly themes. Plots investigate the ethical implications of technology and the difficulties that characters experience. Celebrations, parties, and weddings might all take place against future settings. Military and crime themes offer a layer of intricacy to these engrossing movie experiences.
 
 
 ## Regressions

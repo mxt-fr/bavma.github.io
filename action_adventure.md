@@ -22,9 +22,11 @@ Brief overview of the Action and its significance in the film industry.
 - Which relation between the screen time and the opportunity to win an award ?
 - XXX
 
-## NLP Analysis
+## Common words and themes in movie plots
 
 ![Action Wordcloud](/assets/img/wordclouds/empath/Action_Adventure_wordcloud.png)
+
+With dramatic fighting and explosive situations, action-adventure flicks create adrenaline-pumping storylines. Families and children face hardships in the midst of wars, conflicts, and crime in high-stakes storytelling. Characters are guided by powerful leaders through perilous missions that combine aspects of war and military settings. The addition of vehicles, travel, and fast-paced episodes adds to the excitement. Friendships are put to the test by themes of trust, hostility, and violence, while jails and battleships serve as dramatic settings. Business rivalry, real estate, and vacations give varied plot elements, punctuated by brief bursts of pleasant feeling.
 
 ## Regressions
 

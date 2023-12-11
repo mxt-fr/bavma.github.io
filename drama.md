@@ -25,8 +25,10 @@ Brief overview of the Drama and its significance in the film industry.
 - Which relation between the screen time and the opportunity to win an award ?
 - XXX
 
-## NLP Analysis
+## Common words and themes in movie plots
 ![Drama Wordcloud](/assets/img/wordclouds/empath/Drama_wordcloud.png)
+
+Narratives in drama films frequently examine the complexities of family dynamics, depicting the impact of key life events such as weddings, births, and deaths. Negative emotions, crime, and imprisonment are prominent themes that lend suspense to the plot. The genre investigates societal concerns like as conflict and leadership dynamics inside families or larger contexts. While work and business are highlighted, moments of pleasant feeling provide glimpses of hope in the midst of adversity. Drama films, which contain both personal and societal issues, provide a platform for portraying stories that capture the nuances of human lives.
 
 
 ## Regressions
