@@ -17,8 +17,10 @@ A movie producer comes to see us and says he wants to make a successful movie in
 **ALINE**
 
 
+<div style="width: 100%;display: flex; justify-content: center;">
+  <iframe src="cast.html" title="Cast"></iframe>
+</div>
 
-<iframe src="index.html" title="Cast"></iframe>
 
 
 
