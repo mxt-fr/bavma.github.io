@@ -18,9 +18,7 @@ A movie producer comes to see us and says he wants to make a successful movie in
 
 
 
-<div style="width: 100%; display: flex; justify-content: center;">
-  {% include Distribution_inflated_movies.html %}
-</div>
+<iframe src="index.html" title="Cast"></iframe>
 
 
 
