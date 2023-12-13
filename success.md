@@ -18,11 +18,9 @@ A movie producer comes to see us and says he wants to make a successful movie in
 
 
 <div style="width: 100%;display: flex; justify-content: center;">
-  <a href="../cast.html"><img src="../casting.png" alt="cast" style="width:1024px;height:1024px;"></a>
+  <a href="../cast.html"><img src="../casting.png" alt="cast" style="width:512px;height:512px;"></a>
 </div>
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;"> 
-        <iframe id="my-iframe" src="../cast.html" style="position: absolute; width: 100%; height: 100%; border: none;"></iframe> 
-    </div>
+
 
 
 
@@ -45,7 +43,7 @@ Ajouter analysis
 
 **BENOIT**
 
-{% include index.html %}
+
 
 
 
