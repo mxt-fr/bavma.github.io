@@ -1,5 +1,62 @@
----
-layout: home
-title: How to achieve glory and success as a filmmaker
-subtitle: A guide to make the best movies according to a given genre and continent target
----
+<!DOCTYPE html>
+<!-- This code is for demonstration purposes only.  You should not hotlink to Github, Rawgit, or files from the Cytoscape.js documentation in your production apps. -->
+<html>
+<head>
+<link href="style.css" rel="stylesheet" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Limelight&display=swap" rel="stylesheet">
+<meta charset=utf-8 />
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, minimal-ui">
+<title>Perfect drama cast</title>
+<script src="https://unpkg.com/cytoscape/dist/cytoscape.min.js"></script>
+<style>
+
+body {
+  background-image: url('images/cinema_background.jpeg');
+  background-size: cover; 
+}
+    
+#title {
+    color: #CF9E11; /* Sets the font color to blue */
+    font-size: 50px; /* Sets the font size to 20 pixels */
+    text-align: center; /* Centers the text */
+    margin-top: 100px; /* Sets the top margin (adjust as needed) */
+    font-family: 'Limelight', sans-serif;
+    }
+.tooltip {
+    background-color: rgba(136, 19, 5, 0.75); /* Semi-transparent black background */
+    color: white; /* White text color */
+    text-align: center;
+    border-radius: 4px;
+    padding: 5px 10px;
+    position: absolute;
+    z-index: 1000;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+    transition: opacity 0.3s;
+    font-size: 14px;
+    pointer-events: none; /* Ignore pointer events */
+}
+
+/* Arrow at the bottom of the tooltip */
+.tooltip::after {
+    content: "";
+    position: absolute;
+    bottom: 100%; /* At the top of the tooltip */
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent transparent rgba(136, 19, 5, 0.75) transparent;
+}
+</style>
+
+</head>
+<body>
+<div id="title">The perfect cast for a Drama movie</div>
+<div id="cy">
+</div>
+<!-- Load application code at the end to ensure DOM is loaded -->
+<script src="code.js"></script>
+</body>
+</html>
