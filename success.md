@@ -20,9 +20,9 @@ A movie producer comes to see us and says he wants to make a successful movie in
 <div style="width: 100%;display: flex; justify-content: center;">
   <a href="../cast.html">Cast</a>
 </div>
-<div style="width: 100%;display: flex; justify-content: center;">
-  <iframe src="../index.html"></iframe>
-</div>
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;"> 
+        <iframe id="my-iframe" src="../cast.html" style="position: absolute; width: 100%; height: 100%; border: none;"></iframe> 
+    </div>
 
 
 
