@@ -18,7 +18,10 @@ A movie producer comes to see us and says he wants to make a successful movie in
 
 
 <div style="width: 100%;display: flex; justify-content: center;">
-  <a href="cast.html">Cast</a>
+  <a href="../cast.html">Cast</a>
+</div>
+<div style="width: 100%;display: flex; justify-content: center;">
+  <iframe src="../index.html"></iframe>
 </div>
 
 
